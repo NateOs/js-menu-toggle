@@ -204,7 +204,7 @@ nav {
   transition: var(--transition);
 }
 .show-links {
-  height: 10rem;
+  height: 14.375rem; /*height of collapsed menu*/
 }
 @media screen and (min-width: 800px) {
   .nav-center {
